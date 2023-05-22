@@ -1,0 +1,1220 @@
+{
+    "Žilinská Lehota" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Na Stráni",
+             "ulica2" : ""
+        }
+     ],
+    "Kortinská" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Na Stráni",
+             "ulica2" : "Kortinská"
+        }
+     ],
+    "Rázcestie Hričov" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Kortinská",
+             "ulica2" : "Cesta 61"
+        }
+     ],
+    "Pod Kozínom" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 61",
+             "ulica2" : "Hričovská"
+        }
+     ],
+    "Prieložná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Hričovská",
+             "ulica2" : "Pri Rieke"
+        }
+     ],
+    "Strážov konečná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Pri Rieke",
+             "ulica2" : "Strážovská"
+        }
+     ],
+    "Strážov škola" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Strážovská",
+             "ulica2" : "Východná"
+        }
+     ],
+     "Bratislavská" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Framborská",
+             "ulica2" : "Bratislavská"
+        }
+     ],
+     "Furdekova" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Bratislavská",
+             "ulica2" : "Priehradná"
+        }
+     ],
+     "Strážov - Nový Chlmec" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Priehradná",
+             "ulica2" : ""
+        }
+     ],
+     "Pri Kysuci" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Holubia",
+             "ulica2" : "Drozdia"
+        }
+     ],
+     "Jastrabia" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Drozdia",
+             "ulica2" : "Vrania"
+        }
+     ],
+     "Vranie konečná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Vrania",
+             "ulica2" : ""
+        }
+     ],
+     "Zábrežná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 75",
+             "ulica2" : "Zábrežná"
+        }
+     ],
+     "Brodno-západ" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Zábrežná",
+             "ulica2" : "Brodňanská"
+        }
+     ],
+     "Brodno" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Brodňanská",
+             "ulica2" : ""
+        }
+     ],
+     "Bytčianska STS" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Bytčianska",
+             "ulica2" : "Pod skalkou"
+        }
+     ],
+     "Bytčianska obytná oblasť" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Pod skalkou",
+             "ulica2" : "Chlmecká"
+        }
+     ],
+     "Chlmecká - konečná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Chlmecká",
+             "ulica2" : ""
+        }
+     ],
+     "Pod Dubňom" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Závoz",
+             "ulica2" : "Cesta 183"
+        }
+     ],
+     "Pri automobilke" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 183",
+             "ulica2" : "Fatranská"
+        }
+     ],
+     "Teplička nad Váhom" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Fatranská",
+             "ulica2" : ""
+        }
+     ],
+     "Budatín - škola" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Budatínska",
+             "ulica2" : "Na lány"
+        }
+     ],
+     "Farebná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Na lány",
+             "ulica2" : "Zadubanská"
+        }
+     ],
+     "Prípojná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Zadubanská",
+             "ulica2" : "Zástranská"
+        }
+     ],
+     "Na Stránik" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Zástranská",
+             "ulica2" : "Veterná"
+        }
+     ],
+     "Zástranie - stará osada" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Veterná",
+             "ulica2" : ""
+        }
+     ],
+     "Budatín juh" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Dolná",
+             "ulica2" : "Závoz"
+        }
+     ],
+     "Budatín - Námestie hrdinov" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Námestie Hrdinov",
+             "ulica2" : "Severská"
+        }
+     ],
+     "Kysucký most" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 507",
+             "ulica2" : "Cesta 508"
+        }
+     ],
+     "Slovena" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 583",
+             "ulica2" : "Kysucká"
+        }
+     ],
+     "Školská štvrť" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Veľká okružná",
+             "ulica2" : "Legionárska"
+        }
+     ],
+     "Priemyselný dvor" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Kragujevská",
+             "ulica2" : "Cestárska"
+        }
+     ],
+     "Lekárenská" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Holého",
+             "ulica2" : "Kálov"
+        }
+     ],
+     "Štátny archív" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Murgašova",
+             "ulica2" : "Na Šefranici"
+        }
+     ],
+     "Kvačalova DPMŽ" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Mraziarenská",
+             "ulica2" : "Kvačalova"
+        }
+     ],
+     "Rosenfeldov palác" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Dolné Rudiny",
+             "ulica2" : "Horné Rudiny"
+        }
+     ],
+     "Úrad práce" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Rázusova - západ",
+             "ulica2" : "Rázusova - východ"
+        }
+     ],
+     "TESCO" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Sad SNP",
+             "ulica2" : "Hurbanova"
+        }
+     ],
+     "Mariánske námestie" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Makovického",
+             "ulica2" : "Horný val"
+        }
+     ],
+     "Železničná stanica" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Pavla Orságha Hviezdoslava",
+             "ulica2" : "Sasinková"
+        }
+     ],
+     "Ryba" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Chemická",
+             "ulica2" : "Staničná"
+        }
+     ],
+     "Chemické závody" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Chemická",
+             "ulica2" : ""
+        }
+     ],
+     "Bulvár" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Hlinkova",
+             "ulica2" : "Masarykova"
+        }
+     ],
+     "Štúrovo námestie" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Štúrova",
+             "ulica2" : "Sládkovičova"
+        }
+     ],
+     "Spaniolova Nemocnica" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Pred nemocnicou",
+             "ulica2" : "Nemocničná"
+        }
+     ],
+     "Spaniolova západ" : [
+        {
+             "typ" : 1,
+             "ulica1" : "J.C.Hronského",
+             "ulica2" : "Spanyolova"
+        }
+     ],
+     "Farské schody" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Na Bráne",
+             "ulica2" : "Radničná"
+        }
+     ],
+     "Hálkova - malá Praha" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Hálkova",
+             "ulica2" : "Vajánskeho"
+        }
+     ],
+     "Polícia" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Kuzmányho",
+             "ulica2" : "Zaymusova"
+        }
+     ],
+     "Krajský úrad" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Komenského",
+             "ulica2" : "Halašova"
+        }
+     ],
+     "Námestie požiarnikov" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Závodská",
+             "ulica2" : "Požiarnikov"
+        }
+     ],
+     "Podniková štvrť" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Podnikateľská",
+             "ulica2" : "Priemyselná"
+        }
+     ],
+     "Pri Celulózke" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Košická/c",
+             "ulica2" : "Cesta 18/a"
+        }
+     ],
+     "Rosinky" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 18/b",
+             "ulica2" : "Pri Vodnom diele"
+        }
+     ],
+     "Šibenice, STK" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Hruštiny",
+             "ulica2" : "Dúbravy"
+        }
+     ],
+     "Šibenice motel" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 50",
+             "ulica2" : "Úhoria"
+        }
+     ],
+     "Mojšová Lúčka rázcestie" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Úhoria",
+             "ulica2" : "Jalcová"
+        }
+     ],
+     "Mojšová Lúčka konečná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Jalcová",
+             "ulica2" : ""
+        }
+     ],
+     "Rakové" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Bagárová",
+             "ulica2" : "Nový domov"
+        }
+     ],
+     "Dolné Trnové" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Nový domov",
+             "ulica2" : "Dolnotrnovská"
+        }
+     ],
+     "K cintorínu" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Dolnotrnovská",
+             "ulica2" : "Cintorínska"
+        }
+     ],
+     "Sadová" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cintorínska",
+             "ulica2" : "Ovocinárska"
+        }
+     ],
+     "Horná Trnovská" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Ovocinárska",
+             "ulica2" : "Trnovská"
+        }
+     ],
+     "Magočovská" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Trnovská",
+             "ulica2" : ""
+        }
+     ],
+     "Helioska" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Závodského",
+             "ulica2" : "Betonárska"
+        }
+     ],
+     "Energetiky" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Vodárska",
+             "ulica2" : "Plynárska"
+        }
+     ],
+     "Základná škola Závodie" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Mládežnícka",
+             "ulica2" : "Pod sadom"
+        }
+     ],
+     "Jedľová" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Oslobodenia",
+             "ulica2" : "Družstevná"
+        }
+     ],
+     "Námestie Sv. J. Bosca" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Družstevná",
+             "ulica2" : "K cintorínu"
+        }
+     ],
+     "Bánová-colnica" : [
+        {
+             "typ" : 0,
+             "ulica1" : "K lesíku",
+             "ulica2" : ""
+        }
+     ],
+     "Diviačie údolie" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Bitarovská",
+             "ulica2" : "Malinová"
+        }
+     ],
+     "Hôrecká" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Horecká",
+             "ulica2" : "Bánovecká"
+        }
+     ],
+     "Hôrky - cintorín" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Na Hájik",
+             "ulica2" : "Cesta 2101/a"
+        }
+     ],
+     "Hôrky - kostolná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 2101/a",
+             "ulica2" : "Cesta 2101/b"
+        }
+     ],
+     "Hôrky - autoumyváreň" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 2101/b",
+             "ulica2" : "Cesta 2101/c"
+        }
+     ],
+     "Rázcestie Bitarová" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Cesta 2101/c",
+             "ulica2" : "Kostolná"
+        }
+     ],
+     "Brezany - obec" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Kostolná",
+             "ulica2" : "Športová"
+        }
+     ],
+     "Brezany - stred" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Športová",
+             "ulica2" : "V kopci"
+        }
+     ],
+     "Brezany - konečná" : [
+        {
+             "typ" : 0,
+             "ulica1" : "V kopci",
+             "ulica2" : ""
+        }
+     ],
+     "Riečna" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Škultétyho",
+             "ulica2" : "Bánovská"
+        }
+     ],
+     "Elektrotechnická" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Predmostná",
+             "ulica2" : "Mostná"
+        }
+     ],
+     "Tulipánová" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Pod hájom",
+             "ulica2" : "Žltá"
+        }
+     ],
+     "Bôrická" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Tajovského",
+             "ulica2" : "Rudnayova"
+        }
+     ],
+     "Vysokoškolákov - Plaváreň" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Vysokoškolákov",
+             "ulica2" : "Vlčia"
+        }
+     ],
+     "Vlčia" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Vlčia",
+             "ulica2" : "Priama"
+        }
+     ],
+     "ŽILPO" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Obchodná/a",
+             "ulica2" : "Obchodná/b"
+        }
+     ],
+     "Pri pošte" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Obchodná/c",
+             "ulica2" : "Obchodná/d"
+        }
+     ],
+     "Sv. Cyrila a Metoda" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Sv. Cyrila a Metoda/a",
+             "ulica2" : "Sv. Cyrila a Metoda/b"
+        }
+     ],
+     "Fatranská" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Maloobchodná",
+             "ulica2" : "Listová"
+        }
+     ],
+     "Pri privádzači" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Pri pumpe",
+             "ulica2" : "Bôrická"
+        }
+     ],
+     "Podchodová" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Bôrická",
+             "ulica2" : "Tulipánová"
+        }
+     ],
+     "Pietna" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Do kopca",
+             "ulica2" : "Kvačalova"
+        }
+     ],
+     "Na rázcestí" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Tulipánová",
+             "ulica2" : "Spájacia"
+        }
+     ],
+     "Poštová" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Hlinská",
+             "ulica2" : "Rázcestná"
+        }
+     ],
+     "Rajecká-Elektrovod" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Slnečná",
+             "ulica2" : "Južná"
+        }
+     ],
+     "Rajecká-kasárne" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Rajecká/a",
+             "ulica2" : "Rajecká/b"
+        }
+     ],
+     "Rajecká-Stavomontáže" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Rajecká/b",
+             "ulica2" : "Rajecká/c"
+        }
+     ],
+     "Rajecká-IGHP" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Mliekarenská/a",
+             "ulica2" : "Mliekarenská/b"
+        }
+     ],
+     "Rajecká-Mliekárne" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Mliekarenská/b",
+             "ulica2" : "Dlhá"
+        }
+     ],
+     "Pažite" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Dlhá",
+             "ulica2" : "Roľnícka"
+        }
+     ],
+     "Na stanicu" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Roľnícka",
+             "ulica2" : "Hlavná"
+        }
+     ],
+     "Kultúrny dom" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Hlavná",
+             "ulica2" : "Kultúry"
+        }
+     ],
+     "Pri Rajčianke" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Kultúry",
+             "ulica2" : ""
+        }
+     ],
+     "1.Mája" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Májová",
+             "ulica2" : "Predmestská"
+        }
+     ],
+     "Park Antona Bernoláka" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Fándlyho",
+             "ulica2" : "Puškinova"
+        }
+     ],
+     "Stavebná zóna" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Jabloňová",
+             "ulica2" : "Riečna"
+        }
+     ],
+     "Kinekus" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Záhradná",
+             "ulica2" : "Stará vlečka"
+        }
+     ],
+     "Kancelárska" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Kamenná",
+             "ulica2" : "Štrková"
+        }
+     ],
+     "Piesková" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Piesková",
+             "ulica2" : ""
+        }
+     ],
+     "Matice Slovenskej zastávka 1" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Matice Slovenskej/b",
+             "ulica2" : "Matice Slovenskej/c"
+        }
+     ],
+     "Matice Slovenskej zastávka 2" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Matice Slovenskej/d",
+             "ulica2" : "Matice Slovenskej/e"
+        }
+     ],
+     "Pod stromami" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Matice Slovenskej/f",
+             "ulica2" : "Matice Slovenskej/a"
+        }
+     ],
+     "Univerzitná" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Lesoparská",
+             "ulica2" : "Hájna"
+        }
+     ],
+     "Rosinská VUVT" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Rosinská",
+             "ulica2" : "Zelená"
+        }
+     ],
+     "Zvolenská" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Rovná",
+             "ulica2" : "Rosinská"
+        }
+     ],
+     "Osiková" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Brezová",
+             "ulica2" : "Osiková"
+        }
+     ],
+     "Smreková" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Smreková",
+             "ulica2" : "Limbová"
+        }
+     ],
+     "Jaseňová" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Limbová",
+             "ulica2" : "Jaseňová"
+        }
+     ],
+     "Centrálna" : [
+        {
+             "typ" : 2,
+             "ulica1" : "Centrálna",
+             "ulica2" : "Hlinisko"
+        }
+     ],
+     "Vyšné Solinky" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Hájna",
+             "ulica2" : "Platanová"
+        }
+     ],
+     "LIDL" : [
+        {
+             "typ" : 1,
+             "ulica1" : "Obvodová",
+             "ulica2" : "Bajzová"
+        }
+     ],
+     "Pod Košickou" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Kopčisko",
+             "ulica2" : "Popolčekova jama"
+        }
+     ],
+     "Skatepark" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Osloboditeľov/b",
+             "ulica2" : "Popri priehrade"
+        }
+     ],
+     "Pod vodným dielom" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Osloboditeľov/a",
+             "ulica2" : "Osloboditeľov/b"
+        }
+     ],
+     "Vodné dielo Žilina" : [
+        {
+             "typ" : 0,
+             "ulica1" : "Popri priehrade",
+             "ulica2" : "Cesta 2072"
+        }
+     ],
+     "Slnečná terasa" : [
+         {
+              "typ" : 1,
+              "ulica1" : "Pri Slnečnej terase",
+              "ulica2" : "Pod Hájikom"
+         }
+      ],
+      "Mateja Bela" : [
+          {
+               "typ" : 1,
+               "ulica1" : "Mateja Bela/a",
+               "ulica2" : "Mateja Bela/b"
+          }
+       ],
+       "Slnečná terasa-sever" : [
+           {
+                "typ" : 1,
+                "ulica1" : "Mateja Bela/b",
+                "ulica2" : "Mateja Bela/c"
+           }
+        ],
+        "Slnečné námestie" : [
+            {
+                 "typ" : 1,
+                 "ulica1" : "Mateja Bela/b",
+                 "ulica2" : "Mateja Bela/c"
+            }
+         ],
+         "Stodolova" : [
+             {
+                  "typ" : 1,
+                  "ulica1" : "Mateja Bela/d",
+                  "ulica2" : "Mateja Bela/e"
+             }
+          ],
+          "Merkury Market" : [
+              {
+                   "typ" : 1,
+                   "ulica1" : "Košická/a",
+                   "ulica2" : "Košická/b"
+              }
+           ],
+     "Dubeň" : [
+         {
+              "typ" : 3,
+              "ulica1" : "Lano2",
+              "ulica2" : ""
+         }
+      ],
+      "Železničná stanica - lanovka" : [
+          {
+               "typ" : 3,
+               "ulica1" : "Lano1",
+               "ulica2" : ""
+          }
+       ],
+       "Stanica Žilina nástupište 1" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj 1/a Žilina",
+                "ulica2" : "Koľaj 1/b Žilina"
+           }
+        ],
+        "Stanica Žilina nástupište 2" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj 2/a Žilina",
+                 "ulica2" : "Koľaj 2/b Žilina"
+            }
+         ],
+       "Stanica Žilina nástupište 3" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj 3/a Žilina",
+                "ulica2" : "Koľaj 3/b Žilina"
+           }
+        ],
+        "Stanica Žilina nástupište 4" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj 4 Žilina",
+                 "ulica2" : ""
+            }
+         ],
+       "Stanica Žilina nástupište 5" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj 5 Žilina",
+                "ulica2" : ""
+           }
+        ],
+       "Zastávka Žilina-Záriečie" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj Solinky-Záriečie",
+                "ulica2" : "Koľaj Záriečie-Žilina"
+           }
+        ],
+        "Zastávka Žilina-Solinky" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj Bytčica-Solinky",
+                 "ulica2" : "Koľaj Solinky-Záriečie"
+            }
+         ],
+       "Stanica Bytčica nástupište 1" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj 1/b Bytčica",
+                "ulica2" : "Koľaj 1/a Bytčica"
+           }
+        ],
+        "Stanica Bytčica nástupište 2" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj 2/b Bytčica",
+                 "ulica2" : "Koľaj 2/a Bytčica"
+            }
+         ],
+     "Zastávka Lietavská Lúčka" : [
+         {
+              "typ" : 4,
+              "ulica1" : "Koľaj S",
+              "ulica2" : "Koľaj 1/b Lietavská Lúčka"
+         }
+      ],
+      "Zastávka Porúbka" : [
+          {
+               "typ" : 4,
+               "ulica1" : "Koľaj LL-Porúbka",
+               "ulica2" : "Koľaj Porúbka-Poluvsie"
+          }
+       ],
+       "Zastávka Poluvsie" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj Porúbka-Poluvsie",
+                "ulica2" : "Koľaj Poluvsie-Rajecké teplice"
+           }
+        ],
+        "Zastávka Rajecké Teplice" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj Poluvsie-Rajecké teplice",
+                 "ulica2" : "Koľaj Rajecké teplice-Konská pri Rajci"
+            }
+         ],
+         "Zastávka Konská pri Rajci" : [
+             {
+                  "typ" : 4,
+                  "ulica1" : "Koľaj Rajecké teplice-Konská pri Rajci",
+                  "ulica2" : "Koľaj Konská pri Rajci-Zbyňov"
+             }
+          ],
+          "Zastávka Zbyňov" : [
+              {
+                   "typ" : 4,
+                   "ulica1" : "Koľaj Konská pri Rajci-Zbyňov",
+                   "ulica2" : "Koľaj Zbyňov-Kľače"
+              }
+           ],
+           "Zastávka Kľače" : [
+               {
+                    "typ" : 4,
+                    "ulica1" : "Koľaj Zbyňov-Kľače",
+                    "ulica2" : "Koľaj Kľače-Rajec"
+               }
+            ],
+      "Stanica Rajec 1. nástupište" : [
+          {
+               "typ" : 4,
+               "ulica1" : "Koľaj Rajec 1/a",
+               "ulica2" : "Koľaj Rajec 1/b"
+          }
+       ],
+       "Stanica Rajec 2. nástupište" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj Rajec 2/a",
+                "ulica2" : "Koľaj Rajec 2/b"
+           }
+        ],
+      "Stanica Rajec 3. nástupište" : [
+          {
+               "typ" : 4,
+               "ulica1" : "Koľaj Rajec 3/a",
+               "ulica2" : "Koľaj Rajec 3/b"
+          }
+       ],
+       "Zastávka Teplička" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj Žilina-Teplička",
+                "ulica2" : "Koľaj Teplička-Mojš"
+           }
+        ],
+        "Zastávka Mojš" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj Teplička-Mojš",
+                 "ulica2" : "Koľaj Mojš-Varín"
+            }
+         ],
+       "Stanica Varín nástupište 1" : [
+           {
+                "typ" : 4,
+                "ulica1" : "Koľaj Varín 1/a",
+                "ulica2" : "Koľaj Varín 1/b"
+           }
+        ],
+        "Stanica Varín nástupište 2" : [
+            {
+                 "typ" : 4,
+                 "ulica1" : "Koľaj Varín 2/a",
+                 "ulica2" : "Koľaj Varín 2/b"
+            }
+         ],
+         "Zastávka Žilina-predmestie" : [
+             {
+                  "typ" : 4,
+                  "ulica1" : "Koľaj Žilina-Žilina_predmestie",
+                  "ulica2" : "Koľaj Žilina-Horný Hričov"
+             }
+          ],
+          "Zastávka Horný Hričov" : [
+              {
+                   "typ" : 4,
+                   "ulica1" : "Koľaj Žilina-Horný Hričov",
+                   "ulica2" : "Koľaj Horný Hričov-Dolný Hričov"
+              }
+           ],
+           "Stanica Dolný Hričov nástupište 1" : [
+               {
+                    "typ" : 4,
+                    "ulica1" : "Dolný Hričov koľaj 1/a",
+                    "ulica2" : "Dolný Hričov koľaj 1/b"
+               }
+            ],
+            "Stanica Dolný Hričov nástupište 2" : [
+                {
+                     "typ" : 4,
+                     "ulica1" : "Dolný Hričov koľaj 2/a",
+                     "ulica2" : "Dolný Hričov koľaj 2/b"
+                }
+             ],
+            "Zastávka Kotešová" : [
+                {
+                     "typ" : 4,
+                     "ulica1" : "Koľaj Dolný Hričov-Kotešová",
+                     "ulica2" : "Koľaj Kotešová-Bytča"
+                }
+             ],
+            "Stanica Bytča nástupište 1" : [
+                {
+                     "typ" : 4,
+                     "ulica1" : "Koľaj Bytča nástupište 1/a",
+                     "ulica2" : "Koľaj Bytča nástupište 1/b"
+                }
+             ],
+             "Stanica Bytča nástupište 2" : [
+                 {
+                      "typ" : 4,
+                      "ulica1" : "Koľaj Bytča nástupište 2/a",
+                      "ulica2" : "Koľaj Bytča nástupište 2/b"
+                 }
+              ],
+              "Stanica Bytča nástupište 3" : [
+                  {
+                       "typ" : 4,
+                       "ulica1" : "Koľaj Bytča nástupište 3/a",
+                       "ulica2" : "Koľaj Bytča nástupište 3/b"
+                  }
+               ],
+               "Zastávka Nezbudská Lúčka - Strečno" : [
+                   {
+                        "typ" : 4,
+                        "ulica1" : "Koľaj Varín-Nezbudská Lúčka_Strečno",
+                        "ulica2" : "Koľaj Strečno-Vrútky"
+                   }
+                ],
+                "Stanica Vrútky nástupište 1" : [
+                    {
+                         "typ" : 4,
+                         "ulica1" : "Stanica Vrútky nástupište 1/a",
+                         "ulica2" : "Stanica Vrútky nástupište 1/b"
+                    }
+                 ],
+                 "Stanica Vrútky nástupište 2" : [
+                     {
+                          "typ" : 4,
+                          "ulica1" : "Stanica Vrútky nástupište 2/a",
+                          "ulica2" : "Stanica Vrútky nástupište 2/b"
+                     }
+                  ],
+                  "Stanica Vrútky nástupište 3" : [
+                      {
+                           "typ" : 4,
+                           "ulica1" : "Stanica Vrútky nástupište 3/a",
+                           "ulica2" : "Stanica Vrútky nástupište 3/b"
+                      }
+                   ],
+                   "Stanica Vrútky nástupište 4" : [
+                       {
+                            "typ" : 4,
+                            "ulica1" : "Stanica Vrútky nástupište 4/a",
+                            "ulica2" : "Stanica Vrútky nástupište 4/b"
+                       }
+                    ],
+                    "Nezbudská Lúčka - lanovka" : [
+                        {
+                             "typ" : 3,
+                             "ulica1" : "Lano Strečno-Starhrad",
+                             "ulica2" : ""
+                        }
+                     ],
+                     "Starhrad - medzizastávka" : [
+                         {
+                              "typ" : 3,
+                              "ulica1" : "Lano Strečno-Starhrad",
+                              "ulica2" : "Lano Starhrad-Stratenec"
+                         }
+                      ],
+                      "Stratenec - medzizastávka" : [
+                          {
+                               "typ" : 3,
+                               "ulica1" : "Lano Starhrad-Stratenec",
+                               "ulica2" : "Lano Stratenec-Malý Kriváň"
+                          }
+                       ],
+                       "Malý Kriváň" : [
+                           {
+                                "typ" : 3,
+                                "ulica1" : "Lano Stratenec-Malý Kriváň",
+                                "ulica2" : ""
+                           }
+                        ]
+}
