@@ -6,7 +6,7 @@ Tento repozitár obsahuje kompletné riešenie projektu z predmetu ICP. Aplikác
 
 Obrázky a ikony vozidiel prevzaté z internetovej stánky [imhd.sk](https://imhd.sk/za/mhd).
 
-[Video](https://drive.google.com/file/d/1QdcRlzj2LmO0lPxnuBmkUJeoNsQSrrai/view?usp=sharing)(Problémy so spomalením súvisia so spôsob testovania, aplikácia samotná funguje plynule)
+[Video](https://drive.google.com/file/d/1QdcRlzj2LmO0lPxnuBmkUJeoNsQSrrai/view?usp=sharing) (Problémy so spomalením súvisia so spôsob testovania, aplikácia samotná funguje plynule)
 
 [ICP - The C++ Programming Language](https://www.fit.vut.cz/study/course/230965/.en)
 
@@ -14,7 +14,7 @@ This repository contains the complete project solution from the ICP course. The 
 
 Images and vehicle icons taken from the website [imhd.sk](https://imhd.sk/za/mhd).
 
-[Video](https://drive.google.com/file/d/1QdcRlzj2LmO0lPxnuBmkUJeoNsQSrrai/view?usp=sharing)(Slowdown issues are related to the testing method, the app itself works smoothly)
+[Video](https://drive.google.com/file/d/1QdcRlzj2LmO0lPxnuBmkUJeoNsQSrrai/view?usp=sharing) (Slowdown issues are related to the testing method, the app itself works smoothly)
 
 ## Vlastnosti aplikácie
 
